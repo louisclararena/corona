@@ -1,0 +1,2 @@
+# corona
+project karantina odp
